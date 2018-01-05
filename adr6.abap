@@ -9,7 +9,7 @@ define view Zadr6_stob
 {
 
   key b20.partner                  as partner,    // Business partner
-  key b20.addrnumber               as addrnumber, // Address #
+  key b20.addrnumber               as addrnumber, // Address number
       b20.addr_valid_from,
       b20.addr_valid_to,
       _adr6
